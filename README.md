@@ -1,5 +1,5 @@
 ### Hello there 
-![image](https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8)
+![image](https://static.wikia.nocookie.net/df4a5f18-f66e-439a-bed8-41b6cebe996a/scale-to-width/755)
 
 <!--
 **marcosalves-bitg/marcosalves-bitg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
