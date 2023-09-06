@@ -4,6 +4,7 @@
 My name is Marcos Alves! I'm glad that you're here!
 
 🔨 I currently hold the position of Web Tech Leader at @adapcon
+
 🌱 Constantly learning Javascript/Typescript. But eyeing Go and Rust
 
 ![DEBIAN](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
