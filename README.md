@@ -3,6 +3,13 @@
 
 My name is Marcos Alves! I'm glad that you're here!
 
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosalves-bitg&theme=dracula" height="200" alt="marcosalves-bitg" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosalves-bitg&theme=dracula" height="200" alt="marcosalves-bitg" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcosalves-bitg&theme=dracula" height="200" alt="marcosalves-bitg" />
+</div>
+
+## 
 ![DEBIAN](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
@@ -39,3 +46,4 @@ My name is Marcos Alves! I'm glad that you're here!
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pipe.grep/)
 [![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCPRVHzYDeaPt60GP2fxHhNQ)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-rodrigo-jung-alves/)
+[![CODEWARS](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/marcosalves-bitg)
