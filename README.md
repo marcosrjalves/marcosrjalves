@@ -4,9 +4,9 @@
 My name is Marcos Alves! I'm glad that you're here!
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosalves-bitg&theme=dracula" height="200" alt="marcosalves-bitg" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosalves-bitg&theme=dracula" height="200" alt="marcosalves-bitg" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcosalves-bitg&theme=dracula" height="200" alt="marcosalves-bitg" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosrjalves&theme=dracula" height="200" alt="marcosrjalves" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosrjalves&theme=dracula" height="200" alt="marcosrjalves" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcosrjalves&theme=dracula" height="200" alt="marcosrjalves" />
 </div>
 
 ## 
